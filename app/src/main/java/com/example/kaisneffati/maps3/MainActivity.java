@@ -6,7 +6,7 @@ import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.LinearLayout;
-
+/*trara*/
 public class MainActivity extends AppCompatActivity {
     private LinearLayout linearLayout;
     @Override
