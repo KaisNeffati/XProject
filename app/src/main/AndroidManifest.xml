@@ -41,6 +41,10 @@
             android:name=".GetStartedActivity"
             android:label="@string/title_get_started_act"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".UserPack.CreateAccount"></activity>
+        <activity android:name=".UserPack.Login"></activity>
+        <activity android:name=".UserPack.ForgotPassword"></activity>
+        <activity android:name=".UserPack.Account_Settings"></activity>
         <activity
             android:name=".MainActivity"
             android:label="@string/title_app"
