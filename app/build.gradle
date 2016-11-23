@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "com.example.kaisneffati.maps3"
+        applicationId "com.example.kaisriadh.maps3"
         minSdkVersion 19
         targetSdkVersion 24
         versionCode 1
@@ -30,4 +30,5 @@ dependencies {
     compile 'com.android.support:design:24.2.1'
     compile 'com.google.android.gms:play-services:9.4.0'
     compile 'com.android.support:multidex:1.0.0'
+    compile project(":volley")
 }

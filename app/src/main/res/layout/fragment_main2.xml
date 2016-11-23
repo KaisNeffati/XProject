@@ -7,7 +7,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:orientation="vertical"
-    tools:context="com.example.kaisneffati.maps3.Main2Activity$PlaceholderFragment">
+    tools:context="com.example.kaisriadh.maps3.Main2Activity$PlaceholderFragment">
 
     <TextView
         android:id="@+id/step_label"

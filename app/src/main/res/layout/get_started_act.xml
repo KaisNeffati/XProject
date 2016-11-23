@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    tools:context="com.example.kaisneffati.maps3.Main2Activity">
+    tools:context="com.example.kaisriadh.maps3.GetStartedActivity">
 
     <android.support.design.widget.AppBarLayout
         android:id="@+id/appbar"

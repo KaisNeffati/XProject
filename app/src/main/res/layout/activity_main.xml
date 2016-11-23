@@ -9,4 +9,15 @@
 
     <include layout="@layout/content_main22" />
 
+    <TextView
+        android:text="Location Service is Disabled"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/GpsAlert"
+        android:clickable="true"
+        android:layout_gravity="bottom|center"
+        android:textColor="@android:color/holo_red_light"
+        android:visibility="gone"
+        android:layout_marginBottom="90dp" />
+
 </android.support.design.widget.CoordinatorLayout>

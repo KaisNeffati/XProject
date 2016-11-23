@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.example.kaisneffati.maps3.ScrollingActivity"
+    tools:context="com.example.kaisriadh.maps3.ScrollingActivity"
     tools:showIn="@layout/activity_scrolling">
     <LinearLayout
         android:layout_width="match_parent"
